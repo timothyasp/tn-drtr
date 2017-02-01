@@ -1,2 +1,2 @@
-# ne-drtr
-Nebraska Digital Right to Repair Campaign
+# tn-drtr
+Tennessee Right to Repair Campaign
